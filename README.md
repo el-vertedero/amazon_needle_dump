@@ -1,0 +1,14 @@
+# needle-user 6.0 NS6709 5669 amz-p,release-keys
+- manufacturer: amazon
+- platform: gxl
+- codename: needle
+- flavor: needle-user
+- release: 7.1.2
+- id: NS6709
+- incremental: 0011443512708
+- tags: amz-p,release-keys
+- fingerprint: Amazon/needle/needle:6.0/NS6709/5669N:user/amz-p,release-keys
+- is_ab: false
+- brand: Amazon
+- branch: needle-user-6.0-NS6709-5669-amz-p,release-keys
+- repo: amazon_needle_dump
